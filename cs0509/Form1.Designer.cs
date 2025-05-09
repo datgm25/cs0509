@@ -36,9 +36,9 @@
             button1.BackColor = Color.FromArgb(192, 255, 192);
             button1.Font = new Font("メイリオ", 32F);
             button1.ForeColor = Color.FromArgb(0, 64, 0);
-            button1.Location = new Point(56, 49);
+            button1.Location = new Point(214, 108);
             button1.Name = "button1";
-            button1.Size = new Size(200, 100);
+            button1.Size = new Size(400, 100);
             button1.TabIndex = 0;
             button1.Text = "ボタン";
             button1.UseVisualStyleBackColor = false;
